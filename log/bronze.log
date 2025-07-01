@@ -1,0 +1,19 @@
+2025-06-28 03:06:55,256 - INFO - The data is read from data\netflix.csv
+2025-06-28 03:06:55,257 - INFO - The data contains 8807 rows and 12 columns
+2025-06-28 03:06:55,257 - INFO - These columns have null values
+2025-06-28 03:06:55,258 - WARNING - show_id:0.00%
+2025-06-28 03:06:55,259 - WARNING - type:0.00%
+2025-06-28 03:06:55,260 - WARNING - title:0.00%
+2025-06-28 03:06:55,261 - WARNING - director:29.91%
+2025-06-28 03:06:55,262 - WARNING - cast:9.37%
+2025-06-28 03:06:55,263 - WARNING - country:9.44%
+2025-06-28 03:06:55,264 - WARNING - date_added:0.11%
+2025-06-28 03:06:55,264 - WARNING - release_year:0.00%
+2025-06-28 03:06:55,265 - WARNING - rating:0.05%
+2025-06-28 03:06:55,266 - WARNING - duration:0.03%
+2025-06-28 03:06:55,266 - WARNING - listed_in:0.00%
+2025-06-28 03:06:55,268 - WARNING - description:0.00%
+2025-06-28 03:06:55,271 - INFO - show_id columns is removed
+2025-06-28 03:06:55,279 - INFO - The columns director, cast, duration and country are imputed with "unknown" 
+2025-06-28 03:06:55,282 - INFO - The columns rating is imputed with most frequent entr
+2025-06-28 03:06:55,467 - INFO - Bronze data created in "data/bronze.csv"

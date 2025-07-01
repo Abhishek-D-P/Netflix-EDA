@@ -1,0 +1,8 @@
+2025-06-28 03:06:55,142 - INFO - Running clean.py.......
+2025-06-28 03:06:55,571 - INFO - Reading file from data\bronze.csv
+2025-06-28 03:06:55,621 - INFO - The DB is transformed wrt director column
+2025-06-28 03:06:55,801 - INFO - The DB is transformed wrt cast column
+2025-06-28 03:06:55,940 - INFO - The DB is transformed wrt country column
+2025-06-28 03:06:56,202 - INFO - The DB is transformed wrt listed_in column
+2025-06-28 03:06:56,476 - INFO - year, month and day_of_week added
+2025-06-28 03:06:59,811 - INFO - silver data created in "data/silver.csv"
