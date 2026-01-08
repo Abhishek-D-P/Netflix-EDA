@@ -40,6 +40,10 @@ Built using the `data/gold.csv` file, the dashboard includes:
 - 📅 Date Added
 - ⭐ Rating
 
+Dashboard:
+<img width="1821" height="731" alt="Dashboard 1" src="https://github.com/user-attachments/assets/9cf47196-5372-46a8-b4a5-42580a9d41d8" />
+
+
 ---
 
 ## 📝 How to Run the Pipeline
